@@ -96,3 +96,10 @@ Run T_Hist files.py to generate the temperature history
 Run Cooling_Curves.py to plot cooling curves
 
 Run Cooling animation.py to generate and save the animation
+
+
+## Authors
+
+This project was developed jointly by:
+- Mehrzad Khademipour
+- Elina Mohseni
